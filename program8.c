@@ -20,7 +20,7 @@
 //  Description :       Used to check whether number is even or odd
 //  Input :             Integer
 //  Output :            Boolean
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Aarti A Chavan
 //  Date :              16/04/2024
 //
 ////////////////////////////////////////////////////////////
