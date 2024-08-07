@@ -22,7 +22,7 @@
 //  Description :       Used to check whether number is divisible by 3 & 5
 //  Input :             Integer
 //  Output :            Boolean
-//  Author :            Piyush Manohar Khairnar
+//  Author :            Aarti A Chavan
 //  Date :              16/04/2024
 //
 ////////////////////////////////////////////////////////////
